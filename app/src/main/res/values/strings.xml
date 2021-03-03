@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Geocoder</string>
+    <string name="select_point">Выберите точку на карте</string>
+    <string name="location_permission">Для определения Вашего местоположения нужно разрешение на доступ к геолокации</string>
+    <string name="warning">Внимание</string>
+    <string name="info">Информация</string>
+    <string name="no_address">Адрес не установлен</string>
+    <string name="geocode_error">Ошибка получения адреса</string>
+    <string name="permission_error">Нет требуемого разрешения на доступ к геолокации</string>
+    <string name="gps_disabled">Включите GPS для определения вашего местоположения</string>
+</resources>

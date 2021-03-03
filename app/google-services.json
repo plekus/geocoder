@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "610443865191",
+    "firebase_url": "https://avarcom-dca11.firebaseio.com",
+    "project_id": "avarcom-dca11",
+    "storage_bucket": "avarcom-dca11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610443865191:android:7a1aa4b157118c9b7138c2",
+        "android_client_info": {
+          "package_name": "com.z51lab.avarcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610443865191-9gkcrsje9u845slsicjsafpuhv0qacmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.z51lab.avarcom",
+            "certificate_hash": "818e70ac4eb45a5e279119450c387d57fdeeed34"
+          }
+        },
+        {
+          "client_id": "610443865191-g98cf32bsgqp8ko6pg04denrmronjk3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.z51lab.avarcom",
+            "certificate_hash": "765bc7072bbee3e9a30728eca05486cf5787d5bd"
+          }
+        },
+        {
+          "client_id": "610443865191-l1ep08orrpsfq9l12tk63di2ti5p16h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.z51lab.avarcom",
+            "certificate_hash": "4e0560db44905119847fc2fa554a7fcb103559e4"
+          }
+        },
+        {
+          "client_id": "610443865191-lidtt5nsvepd8jnfu351bag7031unmc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzV2EMDXQoRpYAGeRrXqsspQJXTNX2d-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610443865191-lidtt5nsvepd8jnfu351bag7031unmc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610443865191:android:03bfe543a0b58ca87138c2",
+        "android_client_info": {
+          "package_name": "ru.its.geocoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610443865191-90b180s5ioc3k5cjhb7vkqs8ttjji8jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.its.geocoder",
+            "certificate_hash": "818e70ac4eb45a5e279119450c387d57fdeeed34"
+          }
+        },
+        {
+          "client_id": "610443865191-lidtt5nsvepd8jnfu351bag7031unmc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzV2EMDXQoRpYAGeRrXqsspQJXTNX2d-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610443865191-lidtt5nsvepd8jnfu351bag7031unmc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
